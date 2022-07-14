@@ -1,0 +1,21 @@
+.circle{
+  width: 100px;
+  text-align: center;
+}
+
+.circle-box{
+  display: flex;
+  justify-content: space-evenly;
+}
+.circle-box2{
+  display: flex;
+  justify-content: space-between;
+}
+
+.box{
+  width: 600px;
+  height: 400px;
+  margin-left: 200px;
+  margin-top: 200px;
+
+}
